@@ -1,0 +1,7 @@
+name: PlayTime
+version: '${version}'
+main: org.waraccademy.playtime.PlayTime
+authors: [ WarAccademy ]
+description: Playtime
+commands:
+  tempo:

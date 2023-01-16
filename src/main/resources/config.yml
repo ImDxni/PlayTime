@@ -1,0 +1,34 @@
+database:
+  username: "Minecraft"
+  password: ")DKDj389fu98hj89gHUIHFIUS/(y9ef098u98su89hbv9udhY(/YQHIUFHUIEHUIH£INIJCVVJ"
+  databaseName: "metropolis"
+  hostname: "localhost"
+
+messages:
+  online: '&bOnline'
+  player-not-exists: '&cGiocatore non trovato'
+  admin:
+    - '&f&l&m-------&f&l[ &b&lAttività &f&l]&f&l&m-------'
+    - '&8• &fCittadino: &l%player%'
+    - ' '
+    - '&8• &fUltimo Accesso: &b%lastSeen%'
+    - '&8• &fAttività giornaliera: &b%day%'
+    - '&8• &fAttività settimanale: &b%week%'
+    - '&8• &fAttività mensile: &b%month%'
+    - '&f&l&m-------&f&l[ &b&lAttività &f&l]&f&l&m-------'
+  player:
+    - '&f&l&m-------&f&l[ &b&lAttività &f&l]&f&l&m-------'
+    - '&8• &fCittadino: &b&l%player%'
+    - ' '
+    - '&8• &fUltimo Accesso: &b%lastSeen%'
+    - '&f&l&m-------&f&l[ &b&lAttività &f&l]&f&l&m-------'
+  self:
+    - '&f&l&m-------&f&l[ &b&lAttività &f&l]&f&l&m-------'
+    - '&8• &fCittadino: &b&l%player%'
+    - ' '
+    - '&8• &fAttività giornaliera: &b%day%'
+    - '&8• &fAttività settimanale: &b%week%'
+    - '&8• &fAttività mensile: &b%month%'
+    - '&f&l&m-------&f&l[ &b&lAttività &f&l]&f&l&m-------'
+
+reset:
